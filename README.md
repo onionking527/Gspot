@@ -221,3 +221,6 @@ GSpot is the full free version with all features and updates included. There are
 ---
 
 Get started with GSpot today and ensure your video playback experience is smooth and enjoyable! Download now!
+
+---
+**Last updated:** 2026-09-17 14:32:55 UTC
